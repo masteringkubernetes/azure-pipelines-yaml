@@ -4,9 +4,6 @@
 # https://aka.ms/yaml
 jobs:
 - job:
-  trigger:
-  - master
-
   pool:
     vmImage: 'ubuntu-latest'
 
